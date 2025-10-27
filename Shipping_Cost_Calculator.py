@@ -12,11 +12,3 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 # Here is a new upate by P2P-GIT
 
-
-# Here is another update by P2P-GIT
-
-
-
-# Here is another update by P2P-GIT
-
-
